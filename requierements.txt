@@ -1,0 +1,8 @@
+matplotlib
+numpy
+cartopy
+geopandas
+geopy
+plotly-express
+futures
+seaborn
