@@ -3,11 +3,8 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import geopandas as gpd
-import numpy as np
-from matplotlib.patheffects import withStroke
 import plotly.express as px
-from geopy.geocoders import ArcGIS
-from concurrent.futures import ThreadPoolExecutor
+
 import seaborn as sns
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
